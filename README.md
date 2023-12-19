@@ -20,7 +20,7 @@ This project is a simple Todo application built with React and TypeScript. It pr
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/todo-react-typescript.git
+   git clone https://github.com/DevendraCollage/todo-react-typescript.git
 
 2. **Install dependencies:**
    ```bash
